@@ -9,21 +9,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+```
 
-# Header 1
-## Header 2
-### Header 3
+<H1> Hello, I'm Neil :grin: :ghost: </H1>
 
-- Bulleted
-- List
+*I am in Code Fellows 102*
 
-1. Numbered
-2. List
+_I am Ready to learn_
 
-**Bold** and _Italic_ and `Code` text
+Seattle based bitcoin enthousiast
 
-[Link](url) and ![Image](src)
+Growth mindset is compared against fixed midset which are stagnant and mostly pessimistic. Growth mindset comes from within and you must believe in yourself.
+  * 1) Persistance is Key
+  * 2) Learn from mistakes
+  * 3) Set goals and achieve
+
+I recently moved from LA to Seattle in December 2018. I enjoy hiking, traveling, and yoga. Check out my github page below!
+
+:arrow_heading_down: :arrow_heading_down: :arrow_heading_down:
+
+[github website](https://github.com/BSV-Neil)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
